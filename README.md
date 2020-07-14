@@ -6,3 +6,5 @@
 
 * `BatchImageCuttor`：用于批量裁剪图片的工具，使用 C# 和 winform 实现
 
+* `KeyboardAutoTrigger`：用于定时触发一个键盘的点击事件，使用 C# 和 winform 实现
+
